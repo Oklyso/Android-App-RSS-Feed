@@ -1,8 +1,5 @@
-# Mobile Assignment 2
+# RSS Feed
 
-Sources: 
-https://www.javaworld.com/article/2078529/java-android-developer/java-tip--set-up-an-rss-feed-for-your-android-application.html
-
-https://www.androidauthority.com/simple-rss-reader-full-tutorial-733245/
+An android application that displays news through an RSS-feed.
 
 
